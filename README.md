@@ -1,5 +1,3 @@
-Claro, aquí tienes una versión más bonita y profesional de tu README, con mejor organización, diseño limpio y correcciones menores en la redacción:
-
 <h1 align="center">Hola 👋, soy Alejandro Rosa</h1>
 <h3 align="center">Desarrollador Frontend apasionado de República Dominicana</h3>
 
@@ -72,4 +70,3 @@ Claro, aquí tienes una versión más bonita y profesional de tu README, con mej
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drito-web&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-Puedes copiarlo y pegarlo directamente en tu archivo README.md para mejorar la presentación de tu perfil. ¿Quieres que también te lo traduzca al inglés?
